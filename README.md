@@ -14,4 +14,4 @@ To see my past work with Prof. Freeman in his computational physics course (PHY3
 
 To see any silly mini-project I do out of boredom, check out this repository:
 
-*[microprojects !!](https://github.com/jada-garofalo/microprojects)
+* [microprojects !!](https://github.com/jada-garofalo/microprojects)
