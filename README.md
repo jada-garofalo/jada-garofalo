@@ -1,4 +1,4 @@
-hi :)
+hi !!
 
 My name is Jada Garofalo, and I am currently a junior at Syracuse University studying Physics and Neuroscience.
 
