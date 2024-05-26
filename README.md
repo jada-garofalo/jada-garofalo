@@ -1,6 +1,6 @@
 hi !!
 
-My name is Jada Garofalo, and I am currently a junior at Syracuse University studying Physics and Neuroscience.
+My name is Jada Garofalo, and I am currently a senior at Syracuse University studying Physics and Neuroscience.
 
 I can be reached via email at jagarofa@syr.edu for professional stuff.
 
