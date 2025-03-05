@@ -19,5 +19,3 @@ To see my past work with Prof. Freeman in his computational physics course (PHY3
 To see any silly mini-project I do out of boredom, check out this repository:
 
 * [microprojects !!](https://github.com/jada-garofalo/microprojects)
-
-* temp link: [NEU613 presentation](https://docs.google.com/presentation/d/1iqSLI4fBD08sTXIe0OE68EgpI3bYiyvg5j4bZPBydfo/edit?usp=sharing)
