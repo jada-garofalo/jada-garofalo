@@ -7,7 +7,3 @@ I can be reached via email at jagarofa@syr.edu for professional stuff.
 To see all of my information in an easy-to-navigate space, please visit this page:
 
 * [https://jada-garofalo.github.io/](https://jada-garofalo.github.io/)
-
-To see my current work with Dr. Nitz developing an add-on to the PyCBC Detector class for lunar-based GW detection, please stop by this repository:
-
-* [lila-for-pycbc](https://github.com/jada-garofalo/lila-for-pycbc)
